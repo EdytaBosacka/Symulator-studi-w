@@ -1,0 +1,3 @@
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/build/CMakeFiles/Projekt.dir
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/build/CMakeFiles/edit_cache.dir
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/build/CMakeFiles/rebuild_cache.dir

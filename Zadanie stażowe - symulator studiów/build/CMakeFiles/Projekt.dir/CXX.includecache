@@ -1,0 +1,186 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+conio.h
+-
+cstdlib
+-
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+Class_Student.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Dziekan.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+conio.h
+-
+cstdlib
+-
+Class_Dziekan.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Dziekan.h
+Class_Nauczyciel.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Nauczyciel.h
+Class_Student.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.h
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Dziekan.h
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+Class_Pracownik.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Pracownik.h
+Class_Nauczyciel.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Nauczyciel.h
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+Class_Student.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Nauczyciel.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+conio.h
+-
+cstdlib
+-
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Nauczyciel.h
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+Class_Pracownik.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Pracownik.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Pracownik.cpp
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+Class_Pracownik.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Pracownik.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Pracownik.h
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+conio.h
+-
+cstdlib
+-
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+Class_Student.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.h
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Projekt.cpp
+stdio.h
+-
+iostream
+-
+cstdio
+-
+string
+-
+conio.h
+-
+cstdlib
+-
+Class_Czlowiek.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Czlowiek.h
+Class_Nauczyciel.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Nauczyciel.h
+Class_Dziekan.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Dziekan.h
+Class_Student.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Student.h
+Class_Pracownik.h
+C:/Users/Edyta Bosacka/Desktop/MoodUp Labs/Projekt Hello/Class_Pracownik.h
+

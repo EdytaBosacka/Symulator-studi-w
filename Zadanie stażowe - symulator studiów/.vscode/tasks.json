@@ -1,0 +1,64 @@
+
+
+{ // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+
+  "version": "2.0.0",
+  "args": ["-c"],
+  "presentation": {
+      "echo": true,
+      "reveal": "always",
+      "focus":false,
+      "panel": "shared"
+  },
+  "options": { "cwd": "${workspaceRoot}" },
+  "tasks": [ 
+      { "type": "shell",
+        "label": "cmake",
+        "command": "cmake",
+        "args": [ 
+            "..",
+            "-G",
+            "\"MinGW Makefiles\"",
+             
+      /*       "-CMAKE_C_COMPILER=C:/MinGW/bin/mingw32-gcc-6.3.0.exe",
+             "-CMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe",*/
+             "-DCMAKE_BUILD_TYPE=Debug .." 
+            
+
+        ],
+        "options": {
+            "cwd": "${workspaceRoot}/build"
+        },
+        "problemMatcher": []
+    },
+    {
+        "type": "shell",
+        "label": "make",
+        "command": "mingw32-make",
+        "args": [ "-j", "4" ],
+        "group": { "kind": "build", 
+            "isDefault": true },
+        "options": { 
+            "cwd": "${workspaceRoot}/build" },
+            "problemMatcher": []
+        }
+    ]
+        
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+      
+  
