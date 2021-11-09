@@ -1,15 +1,15 @@
 # Simulation of Studies 👨‍🏫
-The program written in C++ which simulates the studies, specifically "the users" of studies.
-We distinguish many types of users, the basic one is Human (basic class). He can only apply for studies - either as a Student or as a Teacher. 
-Additionally, he has basic identification data in the form of parameters: name, surname, PESEL number, e-mail address and telephone number.
-We also have two categories of users in college - Student and Employee, that you can become by being Human.
-  👩‍🎓 The student has a date of enrollment and an average grade (simply one, unweighted) and can quit studies (and simply become Human again).
-  👷 The employee may quit his job and become a Human again :).
-The Employee is categorized into two types of end-users: Teacher and Dean.
-  👩‍🏫 The Teacher can change the grade of a specific Student from the list.
+The program written in C++ which simulates the studies, specifically "the users" of studies. <br>
+We distinguish many types of users, the basic one is Human (basic class). He can only apply for studies - either as a Student or as a Teacher.
+Additionally, he has basic identification data in the form of parameters: name, surname, PESEL number, e-mail address and telephone number. <br> <br>
+We also have two categories of users in college - Student and Employee, that you can become by being Human. <br>
+  👩‍🎓 The student has a date of enrollment and an average grade (simply one, unweighted) and can quit studies (and simply become Human again). <br>
+  👷 The employee may quit his job and become a Human again :). <br> <br>
+The Employee is categorized into two types of end-users: Teacher and Dean. <br>
+  👩‍🏫 The Teacher can change the grade of a specific Student from the list. <br>
   👨‍💼 The Dean can dismiss any Employee (except himself) or Student and accept an applicant base user (Human type) to the position for which he is applying.
-
-
+<br>
+<br>
 The basic settings in the program are: 3 users (3 objects) of the Human type, 2 of the Student type, 2 of the Teacher type and 1 of the Dean type.
 After starting the program, you can select one of the users, and then perform one "action", eg. "apply for studies".
 Then the program makes changes related to the action and returns to the start menu. 
